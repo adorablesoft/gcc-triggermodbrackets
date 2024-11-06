@@ -1,6 +1,7 @@
-# gcc-triggermodbrackets
-3D Models for printing trigger brackets to be used with mouseclick and mech switch triggers on a gamecube controller
+# Brackets For GCC Trigger Mods
 
-There are files for the Trigger guards modified from a gcc scan, as well as a version of the mouseclick bracket designed for use with springs, it may not actually be better, I just decided to try and make a version that accounted for springs just in case the base bracket did not function well enough with springs for people trying to do analog and digital inputs with mouseclick triggers.
+3D Models for printing trigger brackets to be used with a variety of alternative trigger mechanisms on a gamecube controller and any additional files such as trigger plugs or modified guard files needed
 
-Now also includes files for low profile and full size mech switch brackets
+All of the brackets were designed by referencing my own measurements and community scans of OEM GCC hardware
+
+Thanks for checking it out hope they work well for you
