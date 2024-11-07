@@ -4,6 +4,8 @@ This is a brand new version of the file built from the ground up with measuremen
 
 The base file is designed for the majority of available varieties of low profile switches, largely the kailh branding
 
+For your install you most likely will need to trim the rumble bracket's arm where it would hold the trigger paddle to make space for wiring, I also recommend using jsts so that when opening the controller you have a much less frustrating experience.
+
 Of the Kailh Switches I recommend Kailh Robins (57gf clicky), as well as Pale Blue (70gf clicky) and Navy (70gf clicky with thicker click bar) with Robins being the standout in my opinion
 
 The KailhV2 Switch version is designed for the newest line of kailh switches which feature very broad stems, which are commonly used for mech triggers
