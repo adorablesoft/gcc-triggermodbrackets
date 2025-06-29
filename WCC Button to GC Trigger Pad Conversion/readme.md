@@ -25,3 +25,6 @@ Tall Plugs are ~= to Short Plugs on OEM Pads
 
 Fires tall plugs at 0.9 Z Scale for short and 1.3 Z Scale for tall
 Hollow ended plugs carvac made are best at .85 Z scale for short and 1.2 Z scale for tall
+
+
+![20240705_025420](https://github.com/user-attachments/assets/8f72b6bc-45b5-4083-bb31-3ce210c2902c)
